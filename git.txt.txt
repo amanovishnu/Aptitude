@@ -1,0 +1,4 @@
+git add -A
+git commit -am "info - file added"
+git pull
+git push
